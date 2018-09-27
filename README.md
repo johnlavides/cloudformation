@@ -1,6 +1,8 @@
 # cloudformation
 This repo is for the Cloudformation Template with VPC, AutoScaling Group, ELB to serve traffics from the instances using port 8080.
 
+Note: Before creating stack. An existing key-pair is required.
+
 How to create the stack on the Cloudformation using this template
 
 - Login to your aws console
